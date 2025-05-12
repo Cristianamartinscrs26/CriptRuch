@@ -58,9 +58,10 @@ CriptRuch/
    git clone https://github.com/seu-usuario/CriptRuch.git
    cd CriptRuch
 
-2. python criptRuch.py
+python criptRuch.py
 
-3. python criptRuch.py --atualizar
+python criptRuch.py --atualizar
+
 
 ## Outros:
 
