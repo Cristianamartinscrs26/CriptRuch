@@ -22,7 +22,7 @@
 
 # 6. Para atualizar os hashes salvos (modo de aprendizado)
 
-```./criptruch.py --atualizar```
+```./criptruch.py --upgrade```
 
 
 
