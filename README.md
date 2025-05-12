@@ -2,7 +2,7 @@
 
 **Autor:** Cristiano Martins  
 **Versão:** Protótipo 1.2  
-**Última atualização:** Maio 2025  
+**Última atualização:** 12/05/2025  
 
 ---
 
