@@ -32,7 +32,7 @@ Dê permissão de execução e rode:
 
 ```bash
 chmod +x criptruch.py
-./criptruch.py --atualizar
+./criptruch.py --upgrade
 ```
 
 Depois, para novas análises:
