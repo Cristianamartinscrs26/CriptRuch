@@ -52,7 +52,7 @@ python3 criptruch.py
 Abra o terminal (cmd ou PowerShell) e execute:
 
 ```bash
-python criptruch.py --atualizar
+python criptruch.py --upgrade
 ```
 
 Para execuções futuras:
