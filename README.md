@@ -113,7 +113,7 @@ cd caminho\para\CriptRuch
 ### c) Executar o script com Python:
 
 ```powershell
-python criptRuch.py --atualizar
+python criptRuch.py --upgrade
 ```
 
 ou
@@ -141,7 +141,7 @@ Você pode abrir esse arquivo para visualizar todas as detecções feitas.
 Sempre que novos arquivos forem adicionados ou modificados no diretório `arquivos_monitorados`, use:
 
 ```bash
-./criptRuch.py --atualizar
+./criptRuch.py --upgrade
 ```
 
 Assim o banco de dados de integridade será atualizado corretamente.
