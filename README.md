@@ -53,17 +53,107 @@ CriptRuch/
 
 ## 🚀 Como Usar
 
+# 🛡️ Como Usar o CriptRuch - Sistema de Segurança Modular
+
+## 📥 1. Clonar o Repositório
+
+Para obter uma cópia do CriptRuch em sua máquina, use:
+
 ```bash
-# Clonar o repositório
 git clone https://github.com/cristianomartinscrs26/CriptRuch.git
 cd CriptRuch
+```
 
-# Executar o programa
-python criptRuch.py
+---
 
-# (Opcional) Atualizar a base de hashes
+## 💻 2. Requisitos
+
+- Python 3.6 ou superior
+- Sistema Operacional:
+  - ✅ Suportado: Linux (Kali, Ubuntu, Debian, etc.), Windows
+- Permissões de administrador (em sistemas Linux, usar `sudo`)
+
+---
+
+## 🐧 3. Uso no Linux
+
+### a) Dar permissão de execução
+
+```bash
+chmod +x criptRuch.py
+```
+
+### b) Executar o sistema (primeira vez com atualização de hash)
+
+```bash
+./criptRuch.py --upgrade
+```
+
+### c) Executar análise normal
+
+```bash
+./criptRuch.py
+```
+
+---
+
+## 🪟 4. Uso no Windows
+
+### a) Abrir o terminal (CMD ou PowerShell)
+
+### b) Ir até a pasta onde o script foi baixado:
+
+```powershell
+cd caminho\para\CriptRuch
+```
+
+### c) Executar o script com Python:
+
+```powershell
 python criptRuch.py --atualizar
+```
 
+ou
+
+```powershell
+python criptRuch.py
+```
+
+---
+
+## 📝 5. Exportação de Relatório
+
+Após a execução, um relatório será gerado automaticamente em:
+
+```
+./arquivos_monitorados/relatorio.txt
+```
+
+Você pode abrir esse arquivo para visualizar todas as detecções feitas.
+
+---
+
+## ⚙️ 6. Atualizar Hashes
+
+Sempre que novos arquivos forem adicionados ou modificados no diretório `arquivos_monitorados`, use:
+
+```bash
+./criptRuch.py --atualizar
+```
+
+Assim o banco de dados de integridade será atualizado corretamente.
+
+---
+
+## 🤝 Contribuindo
+
+Pull requests são bem-vindos. Para mudanças maiores, abra uma issue para discutir o que você gostaria de alterar.
+
+---
+
+## 📄 Licença
+
+Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
 
 ## Outros:
 
@@ -77,7 +167,7 @@ Ao rodar o script pela primeira vez, a pasta `arquivos_monitorados/` será criad
 
 #### Modo padrão (apenas verificação):
 ```bash
-python criptRuch.py
+python criptRuch.py```
 
 
 
