@@ -1,0 +1,2 @@
+# CriptRuch não requer bibliotecas externas no Protótipo 1.2
+# Apenas bibliotecas padrão do Python são utilizadas.
