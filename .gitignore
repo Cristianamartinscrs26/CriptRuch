@@ -1,0 +1,6 @@
+__pycache__/
+*.log
+*.pyc
+hashes_db.json
+relatorio.txt
+arquivos_monitorados/
