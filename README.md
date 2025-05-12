@@ -1,6 +1,5 @@
 # CriptRuch
 Antivírus
-"""
 CriptRuch - Sistema de Segurança Modular
 Autor: Cristiano Martins
 Versão: Protótipo 1.1
@@ -19,4 +18,3 @@ Este sistema pode ser expandido com módulos adicionais de monitoramento e respo
 
 Objetivo:
 Fornecer uma base sólida para um sistema de defesa cibernética automatizado, com foco em detecção rápida e customizável de falhas e ameaças.
-"""
