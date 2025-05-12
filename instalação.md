@@ -1,7 +1,7 @@
 # 🛡️ CriptRuch - Sistema de Segurança Modular
 
 **Autor:** Cristiano Martins
-**Versão:** Protótipo 1.2
+**Versão:** Protótipo 1.1
 
 CriptRuch é uma ferramenta modular de segurança desenvolvida para detectar ameaças em múltiplas frentes do sistema operacional.
 
@@ -22,7 +22,7 @@ CriptRuch é uma ferramenta modular de segurança desenvolvida para detectar ame
 Clone o repositório:
 
 ```bash
-git clone https://github.com/seuusuario/CriptRuch.git
+git clone https://github.com/cristianomartinscrs26/CriptRuch.git
 cd CriptRuch
 ```
 
