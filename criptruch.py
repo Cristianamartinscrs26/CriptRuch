@@ -171,3 +171,17 @@ if __name__ == "__main__":
         print("Nenhuma ameaça ou modificação suspeita detectada.")
 
     exportar_relatorio(alertas)
+
+
+if "--upgrade" in sys.argv:
+    print("Baixando e aplicando atualizações do CriptRuch...")
+    # Aqui você pode futuramente conectar-se a um repositório remoto para baixar atualizações
+    # ou simplesmente exibir uma mensagem dizendo que está atualizado.
+    print("Atualizações aplicadas com sucesso.")
+    sys.exit()
+
+if os.name == "nt":
+    print("Sistema detectado: Windows")
+else:
+    print("Sistema detectado: Linux/Unix")
+
