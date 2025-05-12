@@ -62,6 +62,7 @@ python criptRuch.py
 
 python criptRuch.py --atualizar
 
+<pre> ```bash python criptRuch.py python criptRuch.py --atualizar ``` </pre>
 
 ## Outros:
 
