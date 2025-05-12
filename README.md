@@ -53,6 +53,17 @@ CriptRuch/
 
 ## 🚀 Como Usar
 
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/CriptRuch.git
+   cd CriptRuch
+
+2. python criptRuch.py
+
+3. python criptRuch.py --atualizar
+
+## Outros:
+
 ### 📦 1. Instalar Dependências
 Não há dependências externas. Apenas Python.
 
