@@ -1,7 +1,7 @@
 # 🛡️ CriptRuch - Sistema de Segurança Modular
 
 **Autor:** Cristiano Martins  
-**Versão:** Protótipo 1.2  
+**Versão:** Protótipo 1.1  
 **Última atualização:** 12/05/2025  
 
 ---
