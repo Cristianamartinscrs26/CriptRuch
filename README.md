@@ -65,3 +65,41 @@ Ao rodar o script pela primeira vez, a pasta `arquivos_monitorados/` será criad
 ```bash
 python criptRuch.py
 
+
+
+🧪 Exemplo de Saída
+
+Iniciando análise de segurança (integridade, vírus, comportamento, sistema)...
+
+== ALERTAS DETECTADOS ==
+ALERTA: arquivos_monitorados/config.ini foi modificado!
+POTENCIAL PROCESSO SUSPEITO DETECTADO: crack_tool
+VÍRUS DETECTADO em arquivos_monitorados/fake_virus.txt
+
+Relatório exportado para 'arquivos_monitorados/relatorio_20250512_1530.txt'.
+
+
+🧱 Arquitetura (Simplificada)
+
++-------------------+
+| criptRuch.py      |
+|-------------------|
+| - verificar_hash  |
+| - detectar_virus  |
+| - comportamento   |
+| - integridade_OS  |
++--------+----------+
+         |
+         v
++-----------------------------+
+| arquivos_monitorados/      |
+| hashes_db.json              |
+| relatorio_*.txt             |
+| criptRuch.log               |
++-----------------------------+
+
+
+🧑‍💻 Contato
+Cristiano Martins
+📧 cristianomartinscrs26@gmail.com
+🔗 Projeto público no GitHub
