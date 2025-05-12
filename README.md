@@ -114,6 +114,7 @@ Relatório exportado para 'arquivos_monitorados/relatorio_20250512_1530.txt'.
 
 
 🧑‍💻 Contato
+
 Cristiano Martins
 📧 cristianomartinscrs26@gmail.com
 🔗 Projeto público no GitHub
