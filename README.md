@@ -53,16 +53,17 @@ CriptRuch/
 
 ## 🚀 Como Usar
 
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/CriptRuch.git
-   cd CriptRuch
+```bash
+# Clonar o repositório
+git clone https://github.com/cristianomartinscrs26/CriptRuch.git
+cd CriptRuch
 
+# Executar o programa
 python criptRuch.py
 
+# (Opcional) Atualizar a base de hashes
 python criptRuch.py --atualizar
 
-<pre> bash python criptRuch.py python criptRuch.py --atualizar  </pre>
 
 ## Outros:
 
