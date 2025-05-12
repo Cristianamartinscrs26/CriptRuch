@@ -51,6 +51,9 @@ CriptRuch/
 
 
 
+
+
+
 ## 🚀 Como Usar
 
 # 🛡️ Como Usar o CriptRuch - Sistema de Segurança Modular
