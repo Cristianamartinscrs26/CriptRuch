@@ -41,4 +41,27 @@ O sistema executa análises automatizadas nos seguintes aspectos:
 
 ## 📂 Estrutura de Arquivos
 
+CriptRuch/
+├── criptRuch.py
+├── hashes_db.json
+├── arquivos_monitorados/
+│ └── [seus arquivos aqui]
+├── relatorio_YYYYMMDD_HHMMSS.txt
+└── criptRuch.log
+
+
+
+## 🚀 Como Usar
+
+### 📦 1. Instalar Dependências
+Não há dependências externas. Apenas Python.
+
+### 📁 2. Criar a pasta de monitoramento (automático)
+Ao rodar o script pela primeira vez, a pasta `arquivos_monitorados/` será criada automaticamente, se não existir.
+
+### 🔍 3. Rodar o Antivírus
+
+#### Modo padrão (apenas verificação):
+```bash
+python criptRuch.py
 
